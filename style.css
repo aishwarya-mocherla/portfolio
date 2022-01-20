@@ -368,7 +368,7 @@ section .title::after {
 }
 
 .interests .serv-content .card:hover {
-    background: #ff9999;
+    background: #ffffff00;
 }
 
 .interests .serv-content .card .box {
@@ -477,7 +477,7 @@ section .title::after {
 }
 
 .skills-content .right .jq::before {
-    width: 60%;
+    width: 80%;
 }
 
 .skills-content .right .js::before {
@@ -485,7 +485,7 @@ section .title::after {
 }
 
 .skills-content .right .cpp::before {
-    width: 70%;
+    width: 90%;
 }
 
 .skills-content .right .ai::before {
